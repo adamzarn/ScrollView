@@ -44,7 +44,7 @@
                                             <constraint firstAttribute="height" constant="40" id="Xrm-UR-OGm"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <state key="normal" title="Page View Controller">
+                                        <state key="normal" title="Page View">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <userDefinedRuntimeAttributes>
